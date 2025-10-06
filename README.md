@@ -29,3 +29,4 @@ This repository contains my personal configuration and setup files for running *
 - [Klipper Documentation](https://www.klipper3d.org/)
 - [Fluidd Web Interface](https://docs.fluidd.xyz/)
 - [Mainsail Web Interface](https://docs-os.mainsail.xyz/)
+- [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/tree/master)
