@@ -8,11 +8,11 @@ This repository contains my personal configuration and setup files for running *
 ## Hardware Modifications
 This configuration is tailored for an Ender 3 with a variety of upgrades.
 
-- [cite_start]**Extruder Motor:** The stock motor has been replaced with a `17HM19-2004S1` stepper motor[cite: 31]. Key specifications are listed below. You will need to adjust your `rotation_distance` and `run_current` in `printer.cfg` to match your specific extruder and this motor.
-    - [cite_start]**Model:** 17HM19-2004S1 [cite: 31]
-    - [cite_start]**Step Angle:** 0.90° [cite: 11]
-    - [cite_start]**Holding Torque:** 0.46 Nm [cite: 11]
-    - [cite_start]**Current:** 2.00 Amps/Phase [cite: 11]
+- **Extruder Motor:** The stock motor has been replaced with a `17HM19-2004S1` stepper motor [31]. Key specifications are listed below. You will need to adjust your `rotation_distance` and `run_current` in `printer.cfg` to match your specific extruder and this motor.
+    - **Model:** 17HM19-2004S1 [31]
+    - **Step Angle:** 0.90° [11]
+    - **Holding Torque:** 0.46 Nm [11]
+    - **Current:** 2.00 Amps/Phase [11]
 
 ## Features
 - Custom Klipper firmware configuration for the Ender 3
