@@ -28,4 +28,4 @@ This repository contains my personal configuration and setup files for running *
 ## Resources
 - [Klipper Documentation](https://www.klipper3d.org/)
 - [Fluidd Web Interface](https://docs.fluidd.xyz/)
-- [Mainsail Web Interface](https://get.mainsail.xyz/)
+- [Mainsail Web Interface](https://docs-os.mainsail.xyz/)
