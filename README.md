@@ -87,10 +87,11 @@ These are future enhancements planned for the Ender 3 Klipper setup to improve p
 - Firmware files and configuration settings are provided as a reference.
 - Contributions and suggestions are welcome, but use caution when applying changes to your own printer.
 
-## Resources
+## Resources (If Not Listed Here Check Datasheets)
 - [Klipper Documentation](https://www.klipper3d.org/)
 - [Fluidd Web Interface](https://docs.fluidd.xyz/)
 - [Mainsail Web Interface](https://docs-os.mainsail.xyz/)
 - [BIGTREETECH-SKR-mini-E3](https://github.com/bigtreetech/BIGTREETECH-SKR-mini-E3/tree/master)
 - [Dragonfly-BMS](https://github.com/Phaetus/Dragonfly-BMS)
 - [Ender-3](https://github.com/Creality3DPrinting/Ender-3)
+- [BLTouch](https://www.antclabs.com/bltouch)
