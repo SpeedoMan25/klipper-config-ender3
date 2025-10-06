@@ -6,6 +6,7 @@ This repository contains my personal configuration and setup files for running *
 > **Note:** This configuration uses a different stepper motor for the extruder. See the Hardware Modifications section for details.
 
 ## Hardware Modifications
+
 This configuration is tailored for an Ender 3 with a variety of upgrades.
 
 - **Extruder Motor:** The stock motor has been replaced with a `17HM19-2004S1` stepper motor [31]. Key specifications are listed below. You will need to adjust your `rotation_distance` and `run_current` in `printer.cfg` to match your specific extruder and this motor.
