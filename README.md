@@ -1,7 +1,7 @@
 # Ender 3 Klipper Setup
 
 ## Overview
-This repository contains my personal configuration and setup files for running **Klipper firmware** on an **Ender 3** with an **SKR E3.0 board**. The goal of this project is to improve print quality, speed, and reliability by leveraging Klipper's advanced features.
+This repository contains my personal configuration and setup files for running **Klipper firmware** on an **Ender 3** with an **SKR-mini-E3 V3.0**. The goal of this project is to improve print quality, speed, and reliability by leveraging Klipper's advanced features.
 
 ## Features
 - Custom Klipper firmware configuration for the Ender 3
