@@ -87,3 +87,6 @@ Future enhancements to improve power management, cooling, and reliability. These
 - [Dragonfly-BMS](https://github.com/Phaetus/Dragonfly-BMS)  
 - [Ender-3](https://github.com/Creality3DPrinting/Ender-3)  
 - [BLTouch](https://www.antclabs.com/bltouch)  
+
+## License
+This project is licensed under the [MIT License](LICENSE).  
